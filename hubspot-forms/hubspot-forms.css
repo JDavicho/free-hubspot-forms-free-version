@@ -1,0 +1,15 @@
+/*
+ * Estilos predeterminados de HubSpot Forms.
+ */
+
+.hubspot-forms-wrap {
+	margin: 0 auto;
+	max-width: 1080px;
+}
+
+.hubspot-forms-box {
+	background: #fff;
+	border: 1px solid #e2e4e7;
+	border-radius: 6px;
+	padding: 24px;
+}
